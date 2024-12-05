@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="orientation_portrait">Portrait orientation</string>
+    <string name="orientation_landscape">Landscape orientation</string>
+    <string name="orientation_square">Square orientation</string>
+    <string name="orientation_undefined">Undefined orientation</string>
+    <string name="orientation_unknown">Unknown orientation</string>
+    <string name="orientation">Landscape orientation</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="subitem1">Subitem 1</string>
+    <string name="subitem2">Subitem 2</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Pink</item>
+    </string-array>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
